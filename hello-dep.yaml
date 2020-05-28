@@ -20,3 +20,4 @@ spec:
           name: hello-app
           ports:
             - containerPort: 8080
+
